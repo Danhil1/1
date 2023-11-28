@@ -1,0 +1,10 @@
+MAIN_KAFKA_TOPIC = "main_topic"
+NO_MAIN_KAFKA_TOPIC = "not_main_topic"
+CONSUMER_GROUP_ID = "ml_kafka_group"
+CONSUMER_AUTORESET = "earliest"
+STAR_NAME = "p_star"
+NOT_P_STAR_NAME = "not_p_star"
+MODEL_NAME = "model.pkl"
+CONSUMER_TIMEOUT = 2000
+KAFKA_API = (0, 11, 5)
+STAR_LABEL = 1
